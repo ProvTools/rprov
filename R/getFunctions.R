@@ -8,5 +8,4 @@ for(f in listresult){
 }
 
 #grab each of the functions, separated by package
-# run args(function) to retrieve the arguments of the function
 # trace arguments of the functions (for ex., for filenames)
